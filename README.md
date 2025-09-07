@@ -55,5 +55,5 @@ docker run -it --rm -p 5432:5432 -e POSTGRES_DB=fleetdb -e POSTGRES_USER=postgre
 ./gradlew test
 ```
 
-## License
-MIT License
+
+
